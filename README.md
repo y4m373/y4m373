@@ -7,7 +7,7 @@
 
 ---
 - 🛡️ Current Role: I have been Cybersecurity Project Assistant and i'm now working as intern Cyberdefense analyst.
-- 📈 After: I'm looking for a position as a junior pentester or more generally in the offensive after the end of my studies.
+- 📈 After: I'm looking for a position as a junior incident responder or more generally in cyberdefense.
 - 🎮 Hobbies : On my free time i like to do web pentesting and cybersecurity intelligence.
 - ♂️ Pronouns: He/Him.
 ---
